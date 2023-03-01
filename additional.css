@@ -1,0 +1,22 @@
+/*
+Vous pouvez ajouter du CSS personnalisé ici.
+
+Cliquez sur l’icône d’aide ci-dessus pour en savoir plus.
+*/
+
+.entry-content p {
+	text-align: justify;
+}
+
+.cacher_dans_article {
+	display: none;
+}
+
+.footnote-icon {
+	width: 0.7em;
+}
+
+.footnote-text {
+    margin-right: 8px;
+    padding-right: 2px;
+}
